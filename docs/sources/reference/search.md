@@ -17,7 +17,7 @@ Dashboards can be searched by the dashboard name, filtered by one (or many) tags
 1. `Search Bar`: The search bar allows you to enter any string and search both database and file based dashboards in real-time.
 2. `Starred`: Here you find all your starred dashboards.
 3. `Recent`: Here you find the latest created dashboards.
-4. `Folders`: The tags filter allows you to filter the list by dashboard tags.
+4. `Folders`: Here you find all the dashboard present in the folder.
 5. `Root`: The root contains all dashboards that are not placed in a folder.
 6. `Tags`: The tags filter allows you to filter the list by dashboard tags.
 
